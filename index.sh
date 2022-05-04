@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-echo "Hellp, World!"
+echo "<------------>"
+echo " Hello, World! "
+echo "<------------>"
